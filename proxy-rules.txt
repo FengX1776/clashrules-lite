@@ -1,5 +1,5 @@
 payload:
-xxxxxx
+  - DOMAIN-KEYWORD,githubXXXXXXXXXXXXXX
   - DOMAIN-KEYWORD,github
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,onedrive.live.com
@@ -230,4 +230,5 @@ xxxxxx
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
+
 
